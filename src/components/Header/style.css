@@ -1,0 +1,15 @@
+header {
+    background-image: url(/images/memphis-colorful.png);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hdr-center {
+    text-align: center;
+    font-weight: bolder;
+}
+
+#hdr-title {
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+
